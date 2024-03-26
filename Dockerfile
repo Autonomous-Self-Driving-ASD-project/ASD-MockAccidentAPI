@@ -7,7 +7,7 @@ WORKDIR /app
 
 COPY . /app
 
-RUN pip install -r requirements.txt && chown -R /app appuser
+RUN pip install -r requirements.txt && chown -R appuser /app
 
 
 ENTRYPOINT ["python3", "-m"]
