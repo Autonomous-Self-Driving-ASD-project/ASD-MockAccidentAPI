@@ -46,7 +46,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n  \"timestamp\": \"2024-03-03T12:00:00\",\n  \"accident_type\": \"Collision\",\n  \"severity\": \"Minor\",\n  \"participants\": 2,\n  \"weather_conditions\": \"Clear\",\n  \"geometry\": [\n    [\n      {\"latitude\": 60.192059, \"longitude\": 24.945831},\n      {\"latitude\": 60.193000, \"longitude\": 24.946000},\n      {\"latitude\": 60.194000, \"longitude\": 24.947000}\n    ]\n  ]\n}\n\n\n",
+							"raw": "{\n  \"timestamp\": \"2024-03-03T12:00:00\",\n  \"accident_type\": \"Collision\",\n  \"severity\": \"Minor\",\n  \"participants\": 2,\n  \"weather_conditions\": \"Clear\",\n  \"geometry\": [\n    [\n      {\"latitude\": 65.039837, \"longitude\": 25.467814},\n      {\"latitude\": 65.043636, \"longitude\": 25.476204},\n      {\"latitude\": 65.039751, \"longitude\": 25.478353}\n    ]\n  ]\n}\n\n\n",
 							"options": {
 								"raw": {
 									"language": "json"
